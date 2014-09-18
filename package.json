@@ -1,8 +1,9 @@
 {
   "name": "winston-fluent",
   "description": "A fluent transport for winston",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Hironori Takahashi <oriental25@gmail.com>",
+  "contributors": "Alex Knol <alexknol@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/sakamoto-san/winston-fluent.git"
@@ -22,7 +23,7 @@
     "vows": "~0.7.0"
   },
   "peerDependencies": {
-    "winston": ">=0.5.0 <0.7.1"
+    "winston": ">=0.5.0 <0.8.1"
   },
   "main": "./lib/winston-fluent",
   "scripts": {
